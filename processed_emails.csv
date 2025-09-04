@@ -1,0 +1,217 @@
+sender,subject,body,sent_date,sentiment,priority,urgency_keywords,sentiment_indicators,contacts_found_emails,contacts_found_phones,requirements_summary,draft_reply
+alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-26 02:58:09,Negative,Urgent,"critical, down",down,,,"Our servers are down, and we need immediate support.","Subject: Re: General query about subscription
+
+Hi Alice,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: critical, down.
+
+Quick recap of your request: Our servers are down, and we need immediate support.
+
+Key details we captured: Our servers are down, and we need immediate support.
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-21 21:58:09,Negative,Urgent,"urgent, blocked","issue, unable, blocked",,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Subject: Re: Urgent request: system access blocked
+
+Hi Alice,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: blocked, urgent.
+
+Quick recap of your request: Hi team, I am unable to log into my account since yesterday.
+
+Key details we captured: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-21 19:58:09,Negative,Urgent,"critical, down",down,,,"Our servers are down, and we need immediate support.","Subject: Re: Critical help needed for downtime
+
+Hi Eve,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: critical, down.
+
+Quick recap of your request: Our servers are down, and we need immediate support.
+
+Key details we captured: Our servers are down, and we need immediate support.
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",2025-08-20 12:58:09,Negative,Urgent,down,"error, down",,,"Hello, I wanted to understand the pricing tiers better.","Subject: Re: Immediate support needed for billing error
+
+Hi Eve,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: down.
+
+Quick recap of your request: Hello, I wanted to understand the pricing tiers better.
+
+Key details we captured: Hello, I wanted to understand the pricing tiers better.
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 13:58:09,Negative,Urgent,"urgent, blocked","cannot, blocked",,,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.","Subject: Re: Urgent request: system access blocked
+
+Hi Bob,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: blocked, urgent.
+
+Quick recap of your request: Despite multiple attempts, I cannot reset my password.
+
+Key details we captured: Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-18 08:58:09,Negative,Urgent,"critical, down","unable, issue, down",,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Subject: Re: Critical help needed for downtime
+
+Hi Alice,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly. I’ve marked this as *high priority* based on cues like: critical, down.
+
+Quick recap of your request: Hi team, I am unable to log into my account since yesterday.
+
+Key details we captured: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-26 01:58:09,Negative,Not urgent,,issue,,,,"Subject: Re: General query about subscription
+
+Hi Alice,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly.
+
+Quick recap of your request: I am facing issues with verifying my account.
+
+
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-25 00:58:09,Negative,Not urgent,,"issue, unable",,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Subject: Re: General query about subscription
+
+Hi Diana,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly.
+
+Quick recap of your request: Hi team, I am unable to log into my account since yesterday.
+
+Key details we captured: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
+alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 07:58:09,Negative,Not urgent,,"cannot, error",,,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.","Subject: Re: Immediate support needed for billing error
+
+Hi Alice,
+
+Thanks for reaching out. I’m sorry for the trouble you’re facing—we understand how disruptive this can be, and we’ll work to resolve it quickly.
+
+Quick recap of your request: Despite multiple attempts, I cannot reset my password.
+
+Key details we captured: Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.
+
+Here’s what we’ll do next:
+1) Verify your account and recent activity.
+2) Reproduce the issue using the details you shared.
+3) Apply the appropriate fix or share a workaround immediately.
+
+If possible, please share:
+- A screenshot of the error (if any)
+- The exact time and steps just before the issue
+- Your app version / browser & OS
+
+We’ll keep you updated until this is fully resolved. Thanks for your patience.
+
+Best regards,
+Support Team"
