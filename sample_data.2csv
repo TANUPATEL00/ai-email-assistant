@@ -1,0 +1,5 @@
+sender,subject,body,sent_date
+user1@test.com,Support Request,Unable to access account,2025-09-04 10:00:00
+user2@test.com,Query about product,Thanks for the great support,2025-09-04 12:00:00
+user3@test.com,Password Reset,Need help resetting password,2025-09-05 09:15:00
+user4@test.com,Billing Issue,Incorrect charge on account,2025-09-05 11:30:00
