@@ -12,7 +12,7 @@ An AI-powered email assistant that automatically:
 
 ## 🚀 Live Demo
 🔹 [Try on Hugging Face](https://huggingface.co/spaces/TanuHub/TanuHub-SupportBot)
-🔹 [Streamlit Cloud Deployment](https://glorious-pancake-q79p6pxgvr5524r67-7860.app.github.dev/)
+🔹 [Streamlit Cloud Deployment](https://ai-email-assistant-9asogatqjo2fbvgbpp9cnb.streamlit.app/)
 
 ---
 
